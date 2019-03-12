@@ -1,1 +1,0 @@
-{  "compilerOptions": {    "target": "es5",    "module": "system",    "noImplicitAny": true,    "noEmitOnError": true,    "outFile": "app.js",    "declaration": true,    "sourceMap": true,    "composite": true  },  "include": [    "*.ts",    "../../_Library/d/jquery.d.ts",    "../../_Library/app.d.ts"  ],  "exclude": [    "*.d.ts"  ]}
