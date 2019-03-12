@@ -1,0 +1,11 @@
+.StackPanelMaster{
+  display: flex;
+  flex-direction: column;
+  width: auto;
+
+  .StackPanelItem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "sass",
+  "main": "index.js",
+  "scripts": {
+    "sass_Library1": "sass --watch *.scss",
+    "sass_Library2": "sass --watch ElementStyle/**/*.scss"
+  },
+  "author": "",
+  "license": "ISC"
+}

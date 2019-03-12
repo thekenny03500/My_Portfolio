@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "system",
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "outFile": "app.js",
+    "declaration": true,
+    "sourceMap": true,
+    "composite": true
+  },
+  "include": [
+    "Element/*.ts",
+    "Element/L1/*.ts",
+    "Element/L2/*.ts",
+    "Element/L3/*.ts",
+    "*.ts",
+    "d/*.ts"
+  ],
+  "exclude": [
+    "*.d.ts"
+  ]
+}

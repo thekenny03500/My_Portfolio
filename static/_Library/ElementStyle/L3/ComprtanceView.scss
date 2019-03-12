@@ -1,0 +1,111 @@
+.CompetenceView {
+  width: 90%;
+  .WPI_CompetenceView{
+    margin: 10px;
+  }
+
+  .Pourcentage{
+    margin: 5px;
+  }
+  .DockPanel{
+    .Position_right{
+      align-items: center;
+    }
+  }
+  .BarreCompBack {
+    width: 500px;
+    height: 50px;
+    border-radius: 22px;
+    .BarreComp {
+      height: 50px;
+      width: 0px;
+      border-radius: 22px;
+      .LabelContener {
+        position: absolute;
+        margin: 5px 40px;
+        span {
+          color: #ffffff;
+        }
+      }
+    }
+
+    &.BarreCompColor_Violet{
+      background-color: #38008f;
+      .BarreComp{
+        background-color: #9766d4;
+      }
+    }
+    &.BarreCompColor_Rouge{
+      background-color: #6b0000;
+      .BarreComp{
+        background-color: #bd2929;
+      }
+    }
+    &.BarreCompColor_Orange{
+      background-color: #8c280d;
+      .BarreComp{
+        background-color: #f16524;
+      }
+    }
+    &.BarreCompColor_Gris{
+      background-color: #545454;
+      .BarreComp{
+        background-color: #808080;
+      }
+    }
+    &.BarreCompColor_Bleu{
+      background-color: #132880;
+      .BarreComp{
+        background-color: #2864f1;
+      }
+    }
+    &.BarreCompColor_Bleu_Foncer{
+      background-color: #0a1535;
+      .BarreComp{
+        background-color: #0e2e84;
+      }
+    }
+    &.BarreCompColor_Bleu_Claire{
+      background-color: #22818e;
+      .BarreComp{
+        background-color: #56dad4;
+      }
+    }
+    &.BarreCompColor_Cyan{
+      background-color: #246357;
+      .BarreComp{
+        background-color: #1cdbbe;
+      }
+    }
+    &.BarreCompColor_Jaune{
+      background-color: #5f5e0e;
+      .BarreComp{
+        background-color: #dac10d;
+      }
+    }
+  }
+  .Icone_Image_Csharp{
+     background-image: url("../_icone/Logo_c_sharp.png");
+  }
+  .Icone_Image_CSS{
+     background-image: url("../_icone/Logo_Css_3.png");
+  }
+  .Icone_Image_docker{
+     background-image: url("../_icone/Logo_Docker.png");
+  }
+  .Icone_Image_HTML{
+     background-image: url("../_icone/Logo_HTML_5.png");
+  }
+  .Icone_Image_java{
+     background-image: url("../_icone/Logo_Java.png");
+  }
+  .Icone_Image_JS{
+     background-image: url("../_icone/Logo_js.png");
+  }
+  .Icone_Image_Lua{
+     background-image: url("../_icone/Logo_Lua.png");
+  }
+  .Icone_Image_TS{
+     background-image: url("../_icone/Logo_TS.png");
+  }
+}

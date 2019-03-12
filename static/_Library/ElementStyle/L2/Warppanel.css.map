@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,gBAAgB;EACd,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,IAAI;;AAGb,cAAc;EACb,OAAO,EAAE,IAAI",
+"sources": ["Warppanel.scss"],
+"names": [],
+"file": "Warppanel.css"
+}

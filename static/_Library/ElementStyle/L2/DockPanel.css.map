@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,2BAAU;EACR,OAAO,EAAE,IAAI;EAEb,0CAAgB;IACd,cAAc,EAAE,WAAW;EAG7B,yCAAe;IACb,cAAc,EAAE,GAAG;EAErB,wCAAc;IACZ,cAAc,EAAE,MAAM;EAExB,wCAAc;IACZ,cAAc,EAAE,cAAc;AAIlC,+BAAc;EACZ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI",
+"sources": ["DockPanel.scss"],
+"names": [],
+"file": "DockPanel.css"
+}

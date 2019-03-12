@@ -1,0 +1,26 @@
+.Page {
+  &.fixHeader
+  {
+    .PageContainte{
+          padding: 42px 0 0 0;
+    }
+  }
+  .PageHeader {
+    display: flex;
+    border-bottom: 2px solid #dd8519;
+    flex-direction: row-reverse;
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    background-color: #001f33;
+    top:0px;
+    z-index: 99999;
+    .Bouton{
+      margin: 10px;
+    }
+  }
+  .PageContainte{
+    width: 100%;
+    height: 100%;
+  }
+}

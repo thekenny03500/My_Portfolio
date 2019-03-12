@@ -1,0 +1,23 @@
+.Image_contener{
+  width: 150px;
+  margin: 15px;
+  height: 150px;
+  Span{
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+  &.Cadre_Standard{
+    border: 2px solid #dd8519;
+    background: #001f33;
+    padding: 13px;
+    border-radius: 20px;
+    Span{
+      border-radius: 20px;
+      border: 1px solid #003858;
+    }
+  }
+}

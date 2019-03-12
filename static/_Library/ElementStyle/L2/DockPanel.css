@@ -1,0 +1,15 @@
+.DockPanelMaster .DockPanel {
+  display: flex; }
+  .DockPanelMaster .DockPanel.Position_right {
+    flex-direction: row-reverse; }
+  .DockPanelMaster .DockPanel.Position_left {
+    flex-direction: row; }
+  .DockPanelMaster .DockPanel.Position_top {
+    flex-direction: column; }
+  .DockPanelMaster .DockPanel.Position_bot {
+    flex-direction: column-reverse; }
+.DockPanelMaster .DockPanelItem {
+  width: auto;
+  height: auto; }
+
+/*# sourceMappingURL=DockPanel.css.map */

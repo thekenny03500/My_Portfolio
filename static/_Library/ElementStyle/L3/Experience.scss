@@ -1,0 +1,35 @@
+.ExpetienceView{
+  width: 100%;
+
+  .DockPanelMaster{
+    width: 100%;
+  }
+
+  .DockPanel.text{
+    .DPI_text{
+      width: 100%;
+      .TextExperiance {
+        span {
+          font-size: 20px;
+          font-weight: bold;
+          color: #ffffff;
+        }
+      }
+    }
+    padding: 25px;
+    width: 100%;
+  }
+
+  .Image_contener {
+    span {
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    .Icone_Image_Etude {
+      background-image: url("../_icone/Etude.png");
+    }
+    .Icone_Image_Travail {
+      background-image: url("../_icone/Travail.png");
+    }
+  }
+}

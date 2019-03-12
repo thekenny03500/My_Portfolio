@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAQ;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI",
+"sources": ["Viewpdf.scss"],
+"names": [],
+"file": "Viewpdf.css"
+}

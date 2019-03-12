@@ -1,0 +1,24 @@
+.Bouton {
+  border: 1px solid #dd8519;
+  border-radius: 5px;
+  padding: 5px;
+  width: auto;
+  background-color: #001f33;
+  text-align: center; }
+  .Bouton span {
+    color: #dd8519 !important;
+    font-weight: bold; }
+  .Bouton.BoutonBig {
+    padding: 20px;
+    width: 600px; }
+    .Bouton.BoutonBig span {
+      font-size: 26px; }
+
+.Bouton:hover {
+  background-color: #b88e46;
+  cursor: pointer; }
+  .Bouton:hover span {
+    color: #ffffff !important;
+    font-weight: bold; }
+
+/*# sourceMappingURL=Bouton.css.map */

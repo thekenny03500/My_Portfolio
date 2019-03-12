@@ -1,0 +1,18 @@
+.LabelContener.Label_Titre span {
+  font-size: 30px;
+  font-weight: bold;
+  color: #dd8519; }
+.LabelContener.Label_GrosText span {
+  font-size: 26px;
+  font-weight: bold;
+  color: #ffffff; }
+.LabelContener.Label_Standard span {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff; }
+.LabelContener.Souligner span {
+  text-decoration: underline; }
+.LabelContener span {
+  font-family: "DejaVu Sans"; }
+
+/*# sourceMappingURL=Label.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM;EACJ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,iBAAiB;EACzB,aAAa,EAAE,IAAI;EACnB,gBAAgB,EAAE,OAAO;EACzB,MAAM,EAAE,QAAQ;EAChB,kBAAW;IACT,MAAM,EAAE,IAAI",
+"sources": ["Bando.scss"],
+"names": [],
+"file": "Bando.css"
+}

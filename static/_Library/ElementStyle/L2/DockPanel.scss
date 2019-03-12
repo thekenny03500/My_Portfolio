@@ -1,0 +1,24 @@
+.DockPanelMaster{
+  .DockPanel{
+    display: flex;
+
+    &.Position_right{
+      flex-direction: row-reverse;
+    }
+
+    &.Position_left{;
+      flex-direction: row
+    }
+    &.Position_top{
+      flex-direction: column;
+    }
+    &.Position_bot{
+      flex-direction: column-reverse;
+    }
+  }
+
+  .DockPanelItem{
+    width: auto;
+    height: auto;
+  }
+}

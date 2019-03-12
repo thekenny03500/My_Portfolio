@@ -1,0 +1,75 @@
+.CompetenceView {
+  width: 90%; }
+  .CompetenceView .WPI_CompetenceView {
+    margin: 10px; }
+  .CompetenceView .Pourcentage {
+    margin: 5px; }
+  .CompetenceView .DockPanel .Position_right {
+    align-items: center; }
+  .CompetenceView .BarreCompBack {
+    width: 500px;
+    height: 50px;
+    border-radius: 22px; }
+    .CompetenceView .BarreCompBack .BarreComp {
+      height: 50px;
+      width: 0px;
+      border-radius: 22px; }
+      .CompetenceView .BarreCompBack .BarreComp .LabelContener {
+        position: absolute;
+        margin: 5px 40px; }
+        .CompetenceView .BarreCompBack .BarreComp .LabelContener span {
+          color: #ffffff; }
+    .CompetenceView .BarreCompBack.BarreCompColor_Violet {
+      background-color: #38008f; }
+      .CompetenceView .BarreCompBack.BarreCompColor_Violet .BarreComp {
+        background-color: #9766d4; }
+    .CompetenceView .BarreCompBack.BarreCompColor_Rouge {
+      background-color: #6b0000; }
+      .CompetenceView .BarreCompBack.BarreCompColor_Rouge .BarreComp {
+        background-color: #bd2929; }
+    .CompetenceView .BarreCompBack.BarreCompColor_Orange {
+      background-color: #8c280d; }
+      .CompetenceView .BarreCompBack.BarreCompColor_Orange .BarreComp {
+        background-color: #f16524; }
+    .CompetenceView .BarreCompBack.BarreCompColor_Gris {
+      background-color: #545454; }
+      .CompetenceView .BarreCompBack.BarreCompColor_Gris .BarreComp {
+        background-color: #808080; }
+    .CompetenceView .BarreCompBack.BarreCompColor_Bleu {
+      background-color: #132880; }
+      .CompetenceView .BarreCompBack.BarreCompColor_Bleu .BarreComp {
+        background-color: #2864f1; }
+    .CompetenceView .BarreCompBack.BarreCompColor_Bleu_Foncer {
+      background-color: #0a1535; }
+      .CompetenceView .BarreCompBack.BarreCompColor_Bleu_Foncer .BarreComp {
+        background-color: #0e2e84; }
+    .CompetenceView .BarreCompBack.BarreCompColor_Bleu_Claire {
+      background-color: #22818e; }
+      .CompetenceView .BarreCompBack.BarreCompColor_Bleu_Claire .BarreComp {
+        background-color: #56dad4; }
+    .CompetenceView .BarreCompBack.BarreCompColor_Cyan {
+      background-color: #246357; }
+      .CompetenceView .BarreCompBack.BarreCompColor_Cyan .BarreComp {
+        background-color: #1cdbbe; }
+    .CompetenceView .BarreCompBack.BarreCompColor_Jaune {
+      background-color: #5f5e0e; }
+      .CompetenceView .BarreCompBack.BarreCompColor_Jaune .BarreComp {
+        background-color: #dac10d; }
+  .CompetenceView .Icone_Image_Csharp {
+    background-image: url("../_icone/Logo_c_sharp.png"); }
+  .CompetenceView .Icone_Image_CSS {
+    background-image: url("../_icone/Logo_Css_3.png"); }
+  .CompetenceView .Icone_Image_docker {
+    background-image: url("../_icone/Logo_Docker.png"); }
+  .CompetenceView .Icone_Image_HTML {
+    background-image: url("../_icone/Logo_HTML_5.png"); }
+  .CompetenceView .Icone_Image_java {
+    background-image: url("../_icone/Logo_Java.png"); }
+  .CompetenceView .Icone_Image_JS {
+    background-image: url("../_icone/Logo_js.png"); }
+  .CompetenceView .Icone_Image_Lua {
+    background-image: url("../_icone/Logo_Lua.png"); }
+  .CompetenceView .Icone_Image_TS {
+    background-image: url("../_icone/Logo_TS.png"); }
+
+/*# sourceMappingURL=ComprtanceView.css.map */

@@ -1,0 +1,31 @@
+.Bouton{
+  .BoutonInit{
+  }
+  border: 1px solid #dd8519;
+  border-radius: 5px;
+  padding: 5px;
+  width: auto;
+  background-color: #001f33;
+  text-align: center;
+  span{
+    color: #dd8519!important;
+    font-weight: bold;
+  }
+
+  &.BoutonBig{
+    padding: 20px;
+    width: 600px;
+    span{
+      font-size: 26px;
+    }
+  }
+}
+
+.Bouton:hover{
+  background-color: #b88e46;
+  cursor: pointer;
+  span{
+    color: #ffffff!important;
+    font-weight: bold;
+  }
+}

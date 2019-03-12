@@ -1,0 +1,22 @@
+.ExpetienceView {
+  width: 100%; }
+  .ExpetienceView .DockPanelMaster {
+    width: 100%; }
+  .ExpetienceView .DockPanel.text {
+    padding: 25px;
+    width: 100%; }
+    .ExpetienceView .DockPanel.text .DPI_text {
+      width: 100%; }
+      .ExpetienceView .DockPanel.text .DPI_text .TextExperiance span {
+        font-size: 20px;
+        font-weight: bold;
+        color: #ffffff; }
+  .ExpetienceView .Image_contener span {
+    background-repeat: no-repeat;
+    background-size: cover; }
+  .ExpetienceView .Image_contener .Icone_Image_Etude {
+    background-image: url("../_icone/Etude.png"); }
+  .ExpetienceView .Image_contener .Icone_Image_Travail {
+    background-image: url("../_icone/Travail.png"); }
+
+/*# sourceMappingURL=Experience.css.map */

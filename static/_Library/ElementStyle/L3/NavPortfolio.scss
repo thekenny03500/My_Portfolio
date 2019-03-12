@@ -1,0 +1,22 @@
+.NavPortfolio{
+
+  .DockPanel{
+    align-items: center;
+  }
+
+  .DPI_WarpNavConteneur{
+    width: 90%;
+  }
+
+  .DivNavPortfolio{
+    width: 500px;
+    .NavPortfolioItemImage {
+      width: 500px;
+      height: 500px;
+    }
+  }
+
+  .NavPortfolioMiniItem{
+    margin: 10px;
+  }
+}
