@@ -1,0 +1,53 @@
+#PagePPE2_Mission_1{
+  background-color: #000d19;
+  .DivContenu{
+        padding: 10px 30px;
+  }
+  .Label_GrosText{
+    margin: 12px 0px;
+  }
+  .Image_Diag_01 {
+    width: 650px;
+    height: 50px;
+    .Icone_Image_Diag_01 {
+      background-image: url("Image/Diag_01.png");
+    }
+  }
+  .Image_Diag_02 {
+    width: 285px;
+    height: 55px;
+    .Icone_Image_Diag_02 {
+      background-image: url("Image/Diag_02.png");
+    }
+  }
+
+  .Image_Affichage_01 {
+    width: 1000px;
+    height: 500px;
+    .Icone_Image_Affichage_01 {
+      background-image: url("Image/Affichage_01.PNG");
+    }
+  }
+  .Image_Affichage_02 {
+    width: 1000px;
+    height: 500px;
+    .Icone_Image_Affichage_02 {
+      background-image: url("Image/Affichage_02.PNG");
+    }
+  }
+  .Image_Affichage_03 {
+    width: 1000px;
+    height: 500px;
+    .Icone_Image_Affichage_03 {
+      background-image: url("Image/Affichage_03.PNG");
+    }
+  }
+  .Image_Affichage_04 {
+    width: 1000px;
+    height: 500px;
+    .Icone_Image_Affichage_04 {
+      background-image: url("Image/Affichage_04.PNG");
+    }
+  }
+
+}

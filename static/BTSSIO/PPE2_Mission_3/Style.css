@@ -1,0 +1,13 @@
+#PagePPE2_Mission_3 {
+  background-color: #000d19; }
+  #PagePPE2_Mission_3 .DivContenu {
+    padding: 10px 30px; }
+  #PagePPE2_Mission_3 .Label_GrosText {
+    margin: 12px 0px; }
+  #PagePPE2_Mission_3 .Image_AffichageWin_01 {
+    width: 690px;
+    height: 500px; }
+    #PagePPE2_Mission_3 .Image_AffichageWin_01 .Icone_Image_AffichageWin_01 {
+      background-image: url("Image/AffichageWin_01.png"); }
+
+/*# sourceMappingURL=Style.css.map */

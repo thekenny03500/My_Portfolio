@@ -1,0 +1,13 @@
+#PagePPE3_Mission_2 {
+  background-color: #000d19; }
+  #PagePPE3_Mission_2 .DivContenu {
+    padding: 10px 30px; }
+  #PagePPE3_Mission_2 .Label_GrosText {
+    margin: 12px 0px; }
+  #PagePPE3_Mission_2 .Image_WinForm_01 {
+    width: 800px;
+    height: 600px; }
+    #PagePPE3_Mission_2 .Image_WinForm_01 .Icone_Image_WinForm_01 {
+      background-image: url("Image/WinForm_01.png"); }
+
+/*# sourceMappingURL=Style.css.map */

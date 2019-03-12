@@ -1,0 +1,32 @@
+#PagePPE3_Mission_1 {
+  background-color: #000d19;
+  .DivContenu {
+    padding: 10px 30px;
+  }
+  .Label_GrosText {
+    margin: 12px 0px;
+  }
+  .Image_winform_01 {
+    width: 750px;
+    height: 655px;
+    .Icone_Image_winform_01 {
+      background-image: url("Image/Image_winform_01.png");
+    }
+  }
+  .Image_Console_01 {
+    width: 850px;
+    height: 395px;
+    .Icone_Image_Console_01 {
+      background-image: url("Image/Image_Console_01.png");
+    }
+  }
+
+  .Image_Diagram {
+    width: 1200px;
+    height: 775px;
+    .Icone_Image_Diagram {
+      background-image: url("Image/diagram_01.PNG");
+    }
+  }
+
+}

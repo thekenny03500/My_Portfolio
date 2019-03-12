@@ -1,0 +1,33 @@
+#PagePPE2_Mission_4 {
+  background-color: #000d19; }
+  #PagePPE2_Mission_4 .DivContenu {
+    padding: 10px 30px; }
+  #PagePPE2_Mission_4 .Label_GrosText {
+    margin: 12px 0px; }
+  #PagePPE2_Mission_4 .Image_class_01 {
+    width: 515px;
+    height: 245px; }
+    #PagePPE2_Mission_4 .Image_class_01 .Icone_Image_class_01 {
+      background-image: url("Image/class_01.png"); }
+  #PagePPE2_Mission_4 .Image_AffichageWin_01 {
+    width: 800px;
+    height: 530px; }
+    #PagePPE2_Mission_4 .Image_AffichageWin_01 .Icone_Image_AffichageWin_01 {
+      background-image: url("Image/AffichageWin_01.png"); }
+  #PagePPE2_Mission_4 .Image_AffichageWin_02 {
+    width: 800px;
+    height: 530px; }
+    #PagePPE2_Mission_4 .Image_AffichageWin_02 .Icone_Image_AffichageWin_02 {
+      background-image: url("Image/AffichageWin_02.png"); }
+  #PagePPE2_Mission_4 .Image_AffichageWin_03 {
+    width: 800px;
+    height: 530px; }
+    #PagePPE2_Mission_4 .Image_AffichageWin_03 .Icone_Image_AffichageWin_03 {
+      background-image: url("Image/AffichageWin_03.png"); }
+  #PagePPE2_Mission_4 .Image_Diagram {
+    width: 800px;
+    height: 655px; }
+    #PagePPE2_Mission_4 .Image_Diagram .Icone_Image_Diagram {
+      background-image: url("Image/diagram.PNG"); }
+
+/*# sourceMappingURL=Style.css.map */
