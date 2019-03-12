@@ -1,0 +1,17 @@
+#Contenu {
+  height: 100%; }
+
+#Page404 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #000d19; }
+  #Page404 .Image_contener {
+    width: 450px;
+    height: 285px; }
+    #Page404 .Image_contener .Icone_Image_Error404 {
+      background-image: url("Image/Error404.png"); }
+
+/*# sourceMappingURL=Style.css.map */

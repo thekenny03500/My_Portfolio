@@ -1,0 +1,67 @@
+#PageIndex {
+  background-color: #000d19; }
+  #PageIndex .Background_Galaxie {
+    background-image: url("Image/Galaxie.jpg"); }
+    #PageIndex .Background_Galaxie .StackAccueil {
+      margin: 98px; }
+      #PageIndex .Background_Galaxie .StackAccueil .SPI_StackAccueil {
+        margin: 25px; }
+    #PageIndex .Background_Galaxie .ConteneurAccuiel {
+      width: 100%; }
+  #PageIndex .DivAPropos .DockPanelItem {
+    margin: 25px 75px 0px 75px; }
+  #PageIndex .DivAPropos .Image_contener {
+    width: 270px;
+    height: 353px; }
+    #PageIndex .DivAPropos .Image_contener .Icone_Image_Profil {
+      background-image: url("Image/Profil.jpeg");
+      background-position-x: -18px;
+      background-size: cover; }
+  #PageIndex .DivAPropos .DivTextPresentation {
+    padding: 15px;
+    background: #000d19;
+    border: 2px solid #dd8519;
+    border-radius: 10px;
+    margin-bottom: 15px; }
+  #PageIndex .DivAPropos .Position_left.Caratere {
+    width: 100%; }
+    #PageIndex .DivAPropos .Position_left.Caratere .DockPanelItem {
+      width: 100%;
+      margin: 40px 75px 0px 0px; }
+    #PageIndex .DivAPropos .Position_left.Caratere .Caracteristique {
+      background: #000d19;
+      border: 2px solid #dd8519;
+      border-radius: 10px;
+      margin: 20px 0px;
+      padding: 20px; }
+      #PageIndex .DivAPropos .Position_left.Caratere .Caracteristique .StackPanelItem {
+        margin: 20px 0px; }
+  #PageIndex .DivPortfolio .Icone_Image_Earth_Planet {
+    background-image: url("Image/Earth_Planet.png"); }
+  #PageIndex .DivPortfolio .Icone_Image_Nothing_Planet {
+    background-image: url("Image/Nothing_Planet.png"); }
+  #PageIndex .DivContact .Image_contener {
+    width: 70px;
+    height: 70px;
+    margin: 10px; }
+  #PageIndex .DivContact .WarpPanelMaster {
+    width: 26%; }
+  #PageIndex .DivContact .Cursor:Hover {
+    cursor: pointer; }
+  #PageIndex .DivContact .Icone_Image_LogoFB {
+    background-image: url("Image/logoFB.png"); }
+  #PageIndex .DivContact .Icone_Image_LogoInsta {
+    background-image: url("Image/logoInsta.png"); }
+  #PageIndex .DivContact .Icone_Image_LogoGitHub {
+    background-image: url("Image/LogoGithub.png"); }
+  #PageIndex .DivContact .Icone_Image_LogoIn {
+    background-image: url("Image/logoIn.png"); }
+  #PageIndex .DivContact .Icone_Image_LogoDiscord {
+    background-image: url("Image/logodiscord.png"); }
+  #PageIndex .DivContact .textContact {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: underline; }
+
+/*# sourceMappingURL=Style.css.map */

@@ -1,0 +1,109 @@
+#PageIndex {
+  background-color: #000d19;
+  .Background_Galaxie {
+    background-image: url("Image/Galaxie.jpg");
+
+    .StackAccueil {
+      margin: 98px;
+      .SPI_StackAccueil {
+        margin: 25px;
+      }
+    }
+
+    .ConteneurAccuiel{
+      width: 100%;
+    }
+  }
+
+  .DivAPropos {
+    .DockPanelItem {
+      margin: 25px 75px 0px 75px;
+    }
+
+    .Image_contener {
+      width: 270px;
+      height: 353px;
+      .Icone_Image_Profil {
+        background-image: url("Image/Profil.jpeg");
+        background-position-x: -18px;
+        background-size: cover;
+      }
+    }
+    .DivTextPresentation {
+      padding: 15px;
+      background: #000d19;
+      border: 2px solid #dd8519;
+      border-radius: 10px;
+      margin-bottom: 15px;
+    }
+
+    .Position_left {
+      &.Caratere {
+        width: 100%;
+
+        .DockPanelItem{
+          width: 100%;
+          margin: 40px 75px 0px 0px;
+        }
+        .Caracteristique {
+          background: #000d19;
+          border: 2px solid #dd8519;
+          border-radius: 10px;
+          margin: 20px 0px;
+          padding: 20px;
+          .StackPanelItem {
+            margin: 20px 0px;
+          }
+        }
+      }
+    }
+  }
+
+  .DivPortfolio {
+    .Icone_Image_Earth_Planet{
+      background-image: url("Image/Earth_Planet.png");
+    }
+    .Icone_Image_Nothing_Planet{
+      background-image: url("Image/Nothing_Planet.png");
+    }
+
+  }
+  .DivContact {
+    .Image_contener{
+      width: 70px;
+      height: 70px;
+      margin: 10px;
+    }
+
+    .WarpPanelMaster{
+      width: 26%;
+    }
+
+    .Cursor:Hover{
+      cursor:pointer;
+    }
+
+    .Icone_Image_LogoFB{
+      background-image: url("Image/logoFB.png");
+    }
+    .Icone_Image_LogoInsta{
+      background-image: url("Image/logoInsta.png");
+    }
+    .Icone_Image_LogoGitHub{
+      background-image: url("Image/LogoGithub.png");
+    }
+    .Icone_Image_LogoIn{
+      background-image: url("Image/logoIn.png");
+    }
+    .Icone_Image_LogoDiscord{
+      background-image: url("Image/logodiscord.png");
+    }
+
+    .textContact {
+      font-size: 20px;
+      font-weight: bold;
+      color: #ffffff;
+      text-decoration: underline;
+    }
+  }
+}
