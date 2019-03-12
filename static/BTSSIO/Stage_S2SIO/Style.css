@@ -1,0 +1,33 @@
+#PageStage_S2SIO {
+  background-color: #000d19; }
+  #PageStage_S2SIO .DivContenu {
+    padding: 10px 30px; }
+  #PageStage_S2SIO .Label_GrosText {
+    margin: 12px 0px; }
+  #PageStage_S2SIO .Image_Menu_01 {
+    width: 1350px;
+    height: 760px; }
+    #PageStage_S2SIO .Image_Menu_01 .Icone_Image_Menu_01 {
+      background-image: url("Image/1_new_menu_administration_agenda.PNG"); }
+  #PageStage_S2SIO .Image_typeR_old {
+    width: 785px;
+    height: 320px; }
+    #PageStage_S2SIO .Image_typeR_old .Icone_Image_typeR_old {
+      background-image: url("Image/2_type_de_ressources.PNG"); }
+  #PageStage_S2SIO .Image_typeR_new {
+    width: 785px;
+    height: 320px; }
+    #PageStage_S2SIO .Image_typeR_new .Icone_Image_typeR_new {
+      background-image: url("Image/2_evolution_type_de_ressources.PNG"); }
+  #PageStage_S2SIO .Image_typeR_Creat_old {
+    width: 785px;
+    height: 450px; }
+    #PageStage_S2SIO .Image_typeR_Creat_old .Icone_Image_typeR_Creat_old {
+      background-image: url("Image/3_type_de_ressources_creation.PNG"); }
+  #PageStage_S2SIO .Image_typeR_Creat_new {
+    width: 785px;
+    height: 450px; }
+    #PageStage_S2SIO .Image_typeR_Creat_new .Icone_Image_typeR_Creat_new {
+      background-image: url("Image/3_evolution_type_ de_ressources_creation.PNG"); }
+
+/*# sourceMappingURL=Style.css.map */
