@@ -1,0 +1,30 @@
+#PageStage_S1SIO {
+  background-color: #000d19;
+  .DivContenu {
+    padding: 10px 30px;
+  }
+  .Label_GrosText {
+    margin: 12px 0px;
+  }
+  .Image_Maquette_01 {
+    width: 1350px;
+    height: 760px;
+    .Icone_Image_Maquette_01 {
+      background-image: url("Image/Transmission001.PNG");
+    }
+  }
+  .Image_Maquette_02 {
+    width: 1350px;
+    height: 760px;
+    .Icone_Image_Maquette_02 {
+      background-image: url("Image/Transmission002.PNG");
+    }
+  }
+  .Image_Maquette_03 {
+    width: 1350px;
+    height: 760px;
+    .Icone_Image_Maquette_03 {
+      background-image: url("Image/Transmission003.PNG");
+    }
+  }
+}

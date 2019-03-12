@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "sass",
+  "main": "index.js",
+  "scripts": {
+    "sass_Stage_S1SIO": "sass --watch *.scss"
+  },
+  "author": "",
+  "license": "ISC"
+}
